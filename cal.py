@@ -12,5 +12,7 @@ elif operator == "*":
     result = num1*num2
 elif operator == "/":
     result = num1/num2
+else:
+    print("Wrong operator  entered please start over again")
 
 print(result)
